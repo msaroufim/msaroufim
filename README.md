@@ -1,5 +1,4 @@
-Hi! I'm Mark and I'm interested in making GPU programming more accessible. I do this by
-1. Contributing to PyTorch https://github.com/pytorch/pytorch
-2. Maintaining the GPU MODE community [discord.gg/gpumode](discord.gg/gpumode)
-
-These days I've mostly been working on getting LLMs to write better GPU code, it's an open project so please reach out if you'd like to get involved https://gpu-mode.github.io/popcorn/
+Hi! I'm Mark and I'm interested in making GPU programming more accessible. Broadly speaking I think there's 3 ways of doing this
+1. Building better tools: which is why I contribute to https://github.com/pytorch/pytorch
+2. Upleveling communities: which is why I maintainthe GPU MODE community [discord.gg/gpumode](discord.gg/gpumode)
+3. Building LLMs: which is why I've been working on a community project to help make us more productive https://gpu-mode.github.io/popcorn/
